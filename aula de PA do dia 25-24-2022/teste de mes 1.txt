@@ -1,0 +1,11 @@
+algoritimo exerscicio_01
+digite o valor da peça e armazene em valor 
+digite a qtde de peças a armazene em qtde
+faça vt= qtde*valor
+mostre vt 
+fimalgoritmo 
+
+teste de mesa 
+valor    qtde   vt 
+10	30	300
+2,5	25	12,5

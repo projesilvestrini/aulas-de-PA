@@ -1,0 +1,11 @@
+algoritimo exerscicio_02
+digite o qtdeminima e armazene em qtdeminima
+digite a qtdemaxima e  armazene em qtdemaxima
+faça estoquye medio =(qtdeminima*qtdemaxima)/2
+mostre estoquemedia 
+fimalgoritmo 
+
+teste de mesa 
+qtdeminima     qtdemaxima      estoquemedia
+22		50		35
+15		200		107,5 
