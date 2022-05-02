@@ -1,0 +1,8 @@
+algoritmo_converter_dolar
+
+
+digiteo o valor em cotação e armazene em cotação 
+digite a quantia em reais e armazene em valor-reais
+faca valor erm dolar=valor reais/coatcao
+mostre valor em dolar
+FimAlgoritmo 
