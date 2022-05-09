@@ -1,0 +1,10 @@
+Peca:real
+Quantidade:real
+Total:real
+Comissao:real
+
+digite o valor da peça :"
+digite a qtde vendida de peças:"
+total<-peca*qtde
+comissao <-total*0.05
+FimalGoritmo
