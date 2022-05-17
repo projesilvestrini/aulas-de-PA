@@ -1,0 +1,11 @@
+custo_fabrica:real
+imposto:real
+distribuicao:real
+total:real
+
+
+digite o valor do custo da fabricaimposto<-(custo_fabrica/100)*45
+custo_fabrica<-(custo_fabrica+imposto)
+distribuicao<-(imposto/100)*28
+total<-(custo_fabrica+imposto+distribuicao)
+o valor a ser pago é",total
