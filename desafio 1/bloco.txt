@@ -1,0 +1,13 @@
+horas:real
+min:real
+total:real
+resultado:real
+
+digite as horas
+leia (horas)
+digite os minutos 
+leia (min)
+total <-(min/60)+horas)
+o tempo é ",total
+ex:23/60 = 0,38 
+   4+0,38 = 4,38
