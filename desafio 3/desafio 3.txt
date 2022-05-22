@@ -1,0 +1,8 @@
+ Digite os quilometros percorridos e armazene em km
+     Digite o cunsumo de gasolina e armazene em consumo
+     Digite o preço medio da gasolina e armazene em preco
+     Faça total = ((km/consumo) * preco) * 2
+     Mostre o total
+
+km     consumo     preco     total
+450      10        4.50       405
