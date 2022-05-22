@@ -1,0 +1,17 @@
+horas:real
+min:real
+a:real
+hrs_extra:real
+total:real
+
+digite quantas horas voce trabalhou:8
+digite quantas min voce trabalhou:12
+quanto voce ganha por hora:25
+a <- (a*horas)
+voce ganha por hora",a:200
+hrs_extra <- (a/100)*70)
+e ganha ",hrs_extra," pelas horas extra trabalhadas:140
+
+
+preço_custo    imposto  transporte   custo_final
+25.000         1.45     1.28                 46.400
